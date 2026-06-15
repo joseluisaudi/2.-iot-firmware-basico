@@ -1,0 +1,45 @@
+# Compiled object files and libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.elf
+*.bin
+*.hex
+*.exe
+*.out
+*.map
+
+# PlatformIO files and directories
+.pio/
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+.vscode/
+
+# ESP-IDF files and directories
+build/
+sdkconfig
+sdkconfig.old
+
+# Arduino IDE build directories
+build-*
+bin/
+Arduino15/
+
+# OS and Editor configurations
+.DS_Store
+Thumbs.db
+*.local
+.idea/
+.project
+.cproject
+.settings/
+*.swp
+*~
